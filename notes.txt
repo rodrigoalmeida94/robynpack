@@ -1,0 +1,2 @@
+conda activate yourenvname
+conda env create -f environment.yml
